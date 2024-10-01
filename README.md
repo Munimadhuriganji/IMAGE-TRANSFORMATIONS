@@ -28,7 +28,7 @@ End the program.
 Developed By:Ganji Muni Madhuri
 Register Number:212223230060
 ```
-# i)Image Translation
+# Image Translation
 ```
 import cv2
 import numpy as np
